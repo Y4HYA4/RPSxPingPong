@@ -3,5 +3,6 @@
  - **Rock Paper Scissor**
 
 ----------------------------------------
-### Games created with plain HTML,JS and CSS.
- A quick host using Github Pages.
+### Games created with:
+- Plain HTML,JS and CSS.
+- A quick host using Github Pages.
