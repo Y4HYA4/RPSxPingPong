@@ -1,5 +1,5 @@
 # Web Games:
- ** Ping Pong **
+ **Ping Pong**
  ** Rock Paper Scissor **
 
 
