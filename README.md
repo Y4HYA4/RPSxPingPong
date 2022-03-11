@@ -3,4 +3,4 @@
  - **Rock Paper Scissor**
 
 ----------------------------------------
-#Games created with plain HTML,JS and CSS!
+# Games created with plain HTML,JS and CSS.
